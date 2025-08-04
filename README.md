@@ -5,7 +5,7 @@ Also go by **Stan**
 Still exploring my field of interests...
 
 ## 🔬 Current Research
-- **Van Hooser Lab (Brandeis)**: Built MATLAB pipelines to analyze 2-photon imaging data from ferret visual cortex (1,000+ neurons).  
+- **Van Hooser Lab (Brandeis)**: Built MATLAB pipelines to analyze 2-photon imaging data from ferret visual cortex.  
 - **Noah AI (Internship)**: Developed Python/Linux pipelines for single-cell RNA-seq analysis.  
 
 ## 📂 Projects
