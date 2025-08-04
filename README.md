@@ -1,6 +1,6 @@
 # Hi, I'm Zixin Wan 👋 
 Also go by **Stan**   
-🎓 **Senior at Brandeis University** (B.S. Computer Science & B.S. Biology, GPA 3.72)  
+🎓 **Senior at Brandeis University** (B.S. Computer Science & B.S. Biology)  
 🧬 Interested in **Computational Neuroscience, Biology, and Machine Learning**  
 Still exploring my field of interests...
 
