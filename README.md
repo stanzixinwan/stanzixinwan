@@ -5,7 +5,7 @@ Also go by **Stan**
 Still exploring my field of interests...
 
 ## 📂 Projects
-### [**Neural Imaging Analysis**](https://github.com/stanzixinwan/vhlab-tpdirection-matlab) ###
+### [**Neural Imaging Analysis (Currently no public access)**](https://github.com/stanzixinwan/vhlab-tpdirection-matlab) ###
    - MATLAB pipeline for 2-photon microscopy datasets: tuning curve generation, ANOVA, visualization.
 ### [CompNeuro Final Project](https://github.com/stanzixinwan/comp-neuro-final-project) ###
    - A study on Dependence of Dendritic Calcium on Sodium Conductance with Pinsky–Rinzel Model.
