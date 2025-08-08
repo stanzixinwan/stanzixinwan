@@ -1,12 +1,12 @@
 # Hi, I'm Zixin Wan 👋 
 Also go by **Stan**   
 🎓 **Senior at Brandeis University** (B.S. Computer Science & B.S. Biology)  
-🧬 Interested in **Computational Neuroscience, Biology, and Machine Learning**  
+🧬 Interested in **Computational Neuroscience, Biology, and Programming**  
 Still exploring my field of interests...
 
 ## 📂 Projects
 ### [**Neural Imaging Analysis (In progress)**](https://github.com/stanzixinwan/vhlab-tpdirection-matlab) ###
-   - MATLAB pipeline for 2-photon microscopy datasets: tuning curve generation, ANOVA, visualization.
+   - MATLAB pipeline for *2-photon microscopy* datasets: tuning curve generation, ANOVA, visualization.
 ### [CompNeuro Final Project](https://github.com/stanzixinwan/comp-neuro-final-project) ###
    - Investigates Dependence of Dendritic Calcium on Sodium Conductance utilizing *Pinsky–Rinzel* Model.
 
