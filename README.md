@@ -4,12 +4,9 @@ Also go by **Stan**
 🧬 Interested in **Computational Neuroscience, Biology, and Machine Learning**  
 Still exploring my field of interests...
 
-## 🔬 Current Research
-- **Van Hooser Lab (Brandeis)**: Built MATLAB pipelines to analyze 2-photon imaging data from ferret visual cortex.  
-- **Noah AI (Internship)**: Developed Python/Linux pipelines for single-cell RNA-seq analysis.  
-
 ## 📂 Projects
-1. [**Neural Imaging Analysis Toolkit**](#) – MATLAB pipeline for 2-photon microscopy datasets: tuning curve generation, ANOVA, visualization.  
+1. [**Neural Imaging Analysis**](#) – MATLAB pipeline for 2-photon microscopy datasets: tuning curve generation, ANOVA, visualization.
+2. [CompNeuro Final Project](https://github.com/stanzixinwan/comp-neuro-final-project) - A study on Dependence of Dendritic Calcium on Sodium Conductance with Pinsky–Rinzel Model.
 
 ## 🛠️ Technical Skills
 **Languages:** Python, MATLAB, R, C, Java  
