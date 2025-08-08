@@ -8,7 +8,7 @@ Still exploring my field of interests...
 ### [**Neural Imaging Analysis (In progress)**](https://github.com/stanzixinwan/vhlab-tpdirection-matlab) ###
    - MATLAB pipeline for 2-photon microscopy datasets: tuning curve generation, ANOVA, visualization.
 ### [CompNeuro Final Project](https://github.com/stanzixinwan/comp-neuro-final-project) ###
-   - Investigates Dependence of Dendritic Calcium on Sodium Conductance utilizing Pinsky–Rinzel Model.
+   - Investigates Dependence of Dendritic Calcium on Sodium Conductance utilizing *Pinsky–Rinzel* Model.
 
 ## 🛠️ Technical Skills
 **Languages:** Python, MATLAB, R, C, Java  
