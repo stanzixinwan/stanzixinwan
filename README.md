@@ -5,7 +5,7 @@ Also go by **Stan**
 
 ## Projects
 * [**Neuroscience Toolbox - VH Lab**](https://github.com/VH-Lab/vhlab-toolbox-matlab)
-   - Contributed to VH lab designed MATLAB tools for Neuroscience research.
+   - Contributed to MATLAB tools designed by Van Hooser Lab for Neuroscience research.
 * [**Neural Imaging Analysis (In progress)**](https://github.com/stanzixinwan/vhlab-tpdirection-matlab)
    - MATLAB pipeline for *2-photon microscopy* datasets: tuning curve generation, ANOVA, visualization.
 * [CompNeuro Final Project](https://github.com/stanzixinwan/comp-neuro-final-project)
