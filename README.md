@@ -7,10 +7,11 @@ Also go by **Stan**
 * [**Neuroscience Toolbox - VH Lab**](https://github.com/VH-Lab/vhlab-toolbox-matlab)
    - Contributed to MATLAB tools designed by Van Hooser Lab for Neuroscience research.
 * [**Neural Imaging Analysis (In progress)**](https://github.com/stanzixinwan/vhlab-tpdirection-matlab)
-   - MATLAB pipeline for *2-photon microscopy* datasets: tuning curve generation, ANOVA, visualization.
-* [CompNeuro Final Project](https://github.com/stanzixinwan/comp-neuro-final-project)
+   - **Undergraduate research**: MATLAB pipeline for *2-photon microscopy* datasets: tuning curve generation, ANOVA, visualization.
+* [Computational Neuroscience Report](https://github.com/stanzixinwan/comp-neuro-final-project)
    - Investigates Dependence of Dendritic Calcium on Sodium Conductance utilizing *Pinsky–Rinzel* Model.
-
+* [Website: *Good Health and Well-being*](https://github.com/stanzixinwan/good_health_and_well-being)
+   - Interactive visualization of globle healthcare status, course project of COSI 116a at Brandeis.
 ## Technical Skills
 **Languages:** Python, MATLAB, R, C, Java  
 **Tools:** Git, Pandas, NumPy, scikit-learn, Linux  
